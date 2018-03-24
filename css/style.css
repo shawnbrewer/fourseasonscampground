@@ -117,7 +117,7 @@ footer{
 }
 
 /* Media Queries */
-/*
+
 @media(max-width: 768px){
   header #branding,
   header nav,
@@ -139,8 +139,4 @@ footer{
     margin-top:40px;
   }
 
-  #newsletter button, .quote button{
-    display:block;
-    width:100%;
-  }
-*/
+
