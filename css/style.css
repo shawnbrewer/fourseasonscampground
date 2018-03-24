@@ -118,7 +118,7 @@ footer{
 
 /* Media Queries */
 
-@media(max-width: 768px){
+@media{
   header #branding,
   header nav,
   header nav li,
@@ -138,5 +138,3 @@ footer{
   #showcase h1{
     margin-top:40px;
   }
-
-
